@@ -27,8 +27,6 @@ jaraco.classes==3.2.2
 jedi==0.18.1
 Jinja2==3.1.2
 joblib==1.2.0
-jupyter-client==6.1.12
-jupyter_core==4.11.1
 keyring==23.9.1
 kiwisolver==1.4.4
 MarkupSafe==2.1.1
@@ -45,8 +43,6 @@ pandas==1.4.4
 parso==0.8.3
 pickleshare==0.7.5
 Pillow==9.2.0
-pip==22.2.2
-pipreqs==0.4.11
 pkginfo==1.8.3
 pluggy==1.0.0
 pprintpp==0.4.0
