@@ -10,4 +10,3 @@ scikit-learn==1.1.2
 matplotlib>=3.5.3
 pandas==1.4.4
 django
-optional-django==0.1.1
